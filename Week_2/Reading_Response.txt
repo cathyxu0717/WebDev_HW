@@ -1,0 +1,6 @@
+In the reading, the author Lissa Aguilar talks about the fiver important points about wireframing.
+The five points are the following: clarifying the problem, workflows and sketches, get early feedbacks, know the tools, and know the audiences. 
+She believes finding the problem is the prerequisite for creating a solution. 
+If we can talk to the people who interact with customers in the front line, those information can help us to find the problem easier.
+Then, declare a workflow with the team and remind people timeline to keep the flow going. Sketches should happen all through the process, and different people may need different fidelity sketch. 
+Getting feedback early helps to spot out problems and build solutions. A great tool can help designer to save time, for Lissa, she likes to use Omnigraffle for wireframes. 
