@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    display: block;
+    clear: both;
+    /* to ensure cross browser and legacy browser compatability */
+    height: 0;
+    font-size: 0;
+    content: '';
+    /* super paranoid mode */
+    visibility: hidden;
+}
+
+main {
+    margin: 0 auto;
+    padding: 30px;
+    width:950px;
+}
+
+header p {
+    font-size: 35px;
+    color: #578E95;
+
+}
+
+video,
+article,
+aside {
+    border: 5px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+
+h1{
+  padding-top: 50px;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+article {
+    width: 580px;
+    float: left;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+aside {
+    width: 220px;
+    float: left;
+}
+
+header nav {
+    color: #333;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    float: right;
+    display: inline-block;
+    border:5px solid black;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align-center;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    font-size: 18px;
+    height: 50px;
+    line-height: 50px;
+    width: 120px;
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    text-align: center;
+    transition: all 1s;
+}
+
