@@ -13,16 +13,21 @@
     visibility: hidden;
 }
 
-main {
+html{
+    background-color: #BBB0AA;
+}
+
+/*main {
     margin: 0 auto;
     padding: 30px;
     width:950px;
 }
+*/
 
 header p {
-    font-size: 35px;
+    font-size: 50px bold;
     color: #578E95;
-
+    margin: 
 }
 
 video,
@@ -34,7 +39,13 @@ aside {
 }
 
 h1{
-  padding-top: 50px;
+    margin:auto;
+
+}
+
+.video-center{
+    margin:auto;
+    padding:10px;
 }
 
 video {
